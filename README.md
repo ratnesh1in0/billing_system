@@ -1,3 +1,5 @@
+# billing_system
+This project is a sample Billing system.
 Intro
 This module allows you to add a field to the webform module to redirect submissions to a payment processor. It requires the Webform module.
 It is currently setup to work with FastTransact for payment processing but should be modifiable to work with any post and redirect style payment system.
